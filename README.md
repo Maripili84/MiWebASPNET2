@@ -1,2 +1,2 @@
 # MiWebASPNET2
-2do ejemplo
+Rama master del 2do ejemplo de GitHub
